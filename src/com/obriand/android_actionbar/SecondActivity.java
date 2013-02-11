@@ -29,5 +29,4 @@ public class SecondActivity extends Activity {
 	            return super.onOptionsItemSelected(item);
 	    }
 	}
-
 }
